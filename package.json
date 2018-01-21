@@ -1,0 +1,15 @@
+{
+  "name": "deloittelogin",
+  "version": "1.0.0",
+  "description": "Login Page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dil Madale",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
